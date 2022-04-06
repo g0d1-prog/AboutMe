@@ -1,6 +1,7 @@
 # Hello there! 😎 
 
- - 🖥️ - Último emprego em: Data Analyst -Evo Tecnologia da Informação
+ - 🖥️ - Emprego Atual: Analista de Sistema em Artius
+ <div align = "center"><img height="100em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fartius.com.br%2F&psig=AOvVaw2X-Y10Pm6J7p1DZ3ZXNHjS&ust=1649363654340000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNi6g9WkgPcCFQAAAAAdAAAAABAD" /></div>
  - ✨ - Main Skills - Python, MySQL DB, Django
  - 📚 - Estudando em: Faculdade Descomplica
  - 📧 - E-mail: pedrobarros232@hotmail.com
