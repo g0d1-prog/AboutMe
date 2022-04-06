@@ -1,7 +1,7 @@
 # Hello there! 😎 
 
  - 🖥️ - Último emprego em: Data Analyst -Evo Tecnologia da Informação
- - ✨ - Main Skills - Python, MySQL DB, Django, Flask
+ - ✨ - Main Skills - Python, MySQL DB, Django
  - 📚 - Estudando em: Faculdade Descomplica
  - 📧 - E-mail: pedrobarros232@hotmail.com
  - 📱 - Telefone: (11) 95431-2733
