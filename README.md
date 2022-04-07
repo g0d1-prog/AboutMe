@@ -64,11 +64,9 @@ I hope to learn a lot wherever I join and improve a lot in my field!
 	     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt = "Heroku Icon" height = "120em">
 	</h1>
 </div>
-
-	
-## :computer: Status ##
 	
 <div align="center">
+## :computer: Status ##
   <a href="https://github.com/g0d1-prog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g0d1-prog&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
