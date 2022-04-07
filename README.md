@@ -103,7 +103,7 @@ Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" targe
   <a href="https://github.com/g0d1-prog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g0d1-prog&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0d1-prog&layout=compact&langs_count=7&theme=highcontrast"/>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/g0d1-prog/g0d1-prog/blob/output/github-contribution-grid-snake.svg)
 </div>
   <div style="display: inline_block"><br>
 </div>
