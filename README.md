@@ -1,108 +1,79 @@
-<div align="center" id="top"> 
-  <img src="main_gif.gif" alt="Gif representando a programação" height = "150em"/>
-
-  &#xa0;
-
-  <!-- <a href="https://readme.netlify.app">Demo</a> -->
+<div id="top" align="center">
+  <h1>Hello!</h1>
+  <h2>My name is Pedro Barros and this is my:</h2>
 </div>
 
 <h1 align="center">README</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/readme?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/readme?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/readme?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/readme?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/readme?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/readme?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/readme?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  README 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
-</p>
+<div align="center">
+  <a href="#dart-about-me">About Me</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-knowledge">knowledge</a> &#xa0; | &#xa0;
+  <a href="#computer-status">Status</a> &#xa0; | &#xa0;
+	<a href=#keyboard-most-used-languages>Most Used Languages</a>&#xa0; | &#xa0;
+  <a href="https://github.com/g0d1-prog" target="_blank">Author</a>
+  
+</div>
 
 <br>
 
-## :dart: About ##
+## :dart: About Me ##
 
-Describe your project
+Hi! 
 
-## :sparkles: Features ##
+My name is Pedro Barros, but I'm known as Barros, I'm 20 years old now, and I live with my mother and my dog ​​who are my family, I really like sports, especially volleyball, where I've played professionally, but at the moment I only practice bodybuilding . 
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Some of my hobbies include: Investment in Fixed Income, Gym, Games and Web and Desktop Programming.
 
-## :rocket: Technologies ##
+ I've always been passionate about technology, because when I was younger I used to play a lot and make many changes within the games I played (called mods), and with that it awoke in me the passion for creation, and, technology, so I discovered the area of ​​programming. My dream and goal currently is to be a Full Stack Web Developer using the tools: HTML, CSS, Javascript and their frameworks to create the Front-end, Django for the Back End architecture, administration of applications on my site and as a database, I want to use SQL language. 
 
-The following tools were used in this project:
+I am a very friendly, dedicated, focused, committed, volatile person and my main characteristic is to learn quickly, I can absorb, store and search information with extreme ease. My secret? Be competent and motivated, following my feeling and goals. 
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+I hope to learn a lot wherever I join and improve a lot in my field!
 
-## :white_check_mark: Requirements ##
+## :sparkles: Knowledge ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+<div align="left">
+	<h2>My Back-End Knowledges</h2>
+	<h>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt = "Django Icon" height= "120em">
+        	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt = "Python Icon" height = "120em">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt = "Git Icon" height = "120em">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt = "Pandas Icon" height = "120em">
+</div>
+<div align = "right">
+	<h2>My Front-End Knowledges</h2>
+	<h1>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt = "HTML5 Icon" height="120em">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt = "CSS3 Icon" height="120em">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt = "Bootstrap Icon" height="120em">
+	</h1>
+</div>
+<div align = "left">
+	<h2>My Database Knowledges</h2>
+	<h1>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt = "MySQL Icon" height="120em">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt = "PostgreSQL Icon" height="120em">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt = "SQLite Icon" height = "120em">
+	</h1>
+<div align = "right">
+	<h2>My Server Deploy Knowledges</h2>
+	<h1>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt = "AWS Icon" height="120em">
+	     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt = "Heroku Icon" height = "120em">
+	</h1>
+</div>
 
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/readme
-
-# Access
-$ cd readme
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
- 
-
+	
+## :computer: Status ##
+	
 <div align="center">
   <a href="https://github.com/g0d1-prog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g0d1-prog&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0d1-prog&layout=compact&langs_count=7&theme=highcontrast"/>
+
+## :keyboard: Most Used Languages ##
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0d1-prog&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  <div style="display: inline_block"><br>
-</div>
+
+  
