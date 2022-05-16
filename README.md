@@ -47,7 +47,7 @@ I hope to learn a lot wherever I join and improve a lot in my field!
 	<h1>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt = "HTML5 Icon" height="120em">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt = "CSS3 Icon" height="120em">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt = "Bootstrap Icon" height="120em">
+            	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt = "React Icon"/>
 	</h1>
 </div>
 <div align = "left">
