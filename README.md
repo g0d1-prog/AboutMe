@@ -41,7 +41,8 @@ I hope to learn a lot wherever I join and improve a lot in my field!
         	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt = "Python Icon" height = "120em">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt = "Git Icon" height = "120em">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt = "Pandas Icon" height = "120em">
-</div>
+</div>		
+            	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt = "JavaScript Icon" height = "120em"/>
 <div align = "right">
 	<h2>My Front-End Knowledges</h2>
 	<h1>
