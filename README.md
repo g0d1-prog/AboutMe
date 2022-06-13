@@ -19,6 +19,7 @@
 <br>
 
 ## :dart: About Me ##
+<div align="center">
 
 Hi! 
 
@@ -31,6 +32,8 @@ Some of my hobbies include: Investment in Fixed Income, Gym, Games and Web and D
 I am a very friendly, dedicated, focused, committed, volatile person and my main characteristic is to learn quickly, I can absorb, store and search information with extreme ease. My secret? Be competent and motivated, following my feeling and goals. 
 
 I hope to learn a lot wherever I join and improve a lot in my field!
+	
+</div>
 
 ## :sparkles: Knowledge ##
 
