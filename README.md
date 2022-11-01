@@ -21,17 +21,11 @@
 ## :dart: About Me ##
 <div align="center">
 
-Hi! 
+Hi! How are you? My name is Pedro Barros, I'm 20 years old and I live with my mother and my dog ​​in the city of São Paulo, SP. I am a person who likes several sports, mainly volleyball, that I have played, but at the moment, I only practice weight training and sporadically volleyball.
 
-My name is Pedro Barros, but I'm known as Barros, I'm 20 years old now, and I live with my mother and my dog ​​who are my family, I really like sports, especially volleyball, where I've played professionally, but at the moment I only practice bodybuilding . 
+I've always been passionate about technology, because when I was a kid, I played a lot of computer games and I loved modifying these games, and with that, I ignited my passion for developing computer software, so I later discovered the area of ​​programming. My goals are currently: to become a Full Stack Developer and be part of big projects and challenges within a company that always seeks the evolution of its employees.
 
-Some of my hobbies include: Investment in Fixed Income, Gym, Games and Web and Desktop Programming.
-
- I've always been passionate about technology, because when I was younger I used to play a lot and make many changes within the games I played (called mods), and with that it awoke in me the passion for creation, and, technology, so I discovered the area of ​​programming. My dream and goal currently is to be a Full Stack Web Developer using the tools: HTML, CSS, Javascript and their frameworks to create the Front-end, Django for the Back End architecture, administration of applications on my site and as a database, I want to use SQL language. 
-
-I am a very friendly, dedicated, focused, committed, volatile person and my main characteristic is to learn quickly, I can absorb, store and search information with extreme ease. My secret? Be competent and motivated, following my feeling and goals. 
-
-I hope to learn a lot wherever I join and improve a lot in my field!
+I am very friendly, dedicated, focused, committed, proactive and volatile, my main characteristic is to learn quickly, absorbing useful information that improves with my work and learning.
 	
 </div>
 
