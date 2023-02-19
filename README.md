@@ -6,9 +6,7 @@
 <h1 align="center">README</h1>
 
 
-
 <div align="center">
-  <a href="#dart-about-me">About Me</a> &#xa0; | &#xa0; 
   <a href="#sparkles-knowledge">knowledge</a> &#xa0; | &#xa0;
   <a href="#computer-status">Status</a> &#xa0; | &#xa0;
 	<a href=#keyboard-most-used-languages>Most Used Languages</a>&#xa0; | &#xa0;
@@ -17,17 +15,6 @@
 </div>
 
 <br>
-
-## :dart: About Me ##
-<div align="center">
-
-Hi! How are you? My name is Pedro Barros, I'm 20 years old and I live in Sao Paulo, Brazil.
-	
-I've always been passionate about technology, because when I was a kid, I played a lot of computer games and I loved modifying these games, and with that, I ignited my passion for developing computer software, so I later discovered the area of ​​programming. My goals are currently: to become a Full Stack Developer and be part of big projects and challenges within a company that always seeks the evolution of its employees.
-
-I am very friendly, dedicated, focused, committed, proactive and volatile, my main characteristic is to learn quickly, absorbing useful information that improves with my work and learning.
-	
-</div>
 
 ## :sparkles: Knowledge ##
 
