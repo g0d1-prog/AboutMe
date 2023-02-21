@@ -5,7 +5,7 @@
 <div align="center">
 	<a href="#sparkles-knowledge">Knowledge</a> &#xa0; | &#xa0;
 	<a href="#computer-status">Status</a> &#xa0; | &#xa0;
-	<a href=#keyboard-most-used-languages>Most Used Languages</a>&#xa0; | &#xa0;
+	<a href=#keyboard-most-used-languages>Most Used Languages</a>
 </div>
 
 <br>
