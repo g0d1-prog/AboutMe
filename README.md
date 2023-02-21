@@ -8,20 +8,18 @@
 	<a href=#keyboard-most-used-languages>Most Used Languages</a>
 </div>
 
-<br>
+<br/>
 
-<h1 id="knowledges">
-✨ Knowledges
-</h1>
+<h1 id="knowledges">✨ Knowledges</h1>
 <div align="left">
 	<h2>My Back-End Knowledges</h2>
-	---
 	<h3>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt = "Django Icon" height= "120em"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt = "Python Icon" height = "120em"/>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt = "Git Icon" height = "120em"/>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt = "Pandas Icon" height = "120em"/>
-</div>        	
+</div>
+   	
 <div align = "right">
 	<h2>My Front-End Knowledges</h2>
 	<h3>
@@ -31,6 +29,7 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt = "Bootstrap Icon" height = "120em"/>
 	</h3>
 </div>
+
 <div align = "left">
 	<h2>My Database Knowledges</h2>
 	<h3>
@@ -38,6 +37,7 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt = "PostgreSQL Icon" height="120em"/>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt = "SQLite Icon" height = "120em"/>
 	</h3>
+
 <div align = "right">
 	<h2>My Server Knowledges</h2>
 	<h3>
@@ -47,14 +47,14 @@
 	</h3>
 </div>
 	
-## :computer: Status ##
+<h1>💻 Status</h1>
 
 <div align="center">
   <a href="https://github.com/pedrohrbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohrbarros&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 	
-## :keyboard: Most Used Languages ##
+<h1>⌨️ Most Used Languages</h1>
 
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrbarros&layout=compact&langs_count=7&theme=highcontrast"/>
