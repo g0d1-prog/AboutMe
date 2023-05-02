@@ -15,18 +15,26 @@
 	<h2>My Back-End Knowledges</h2>
 	<h3>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt = "Django Icon" height= "120em"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt = "Python Icon" height = "120em"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt = "Git Icon" height = "120em"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt = "Pandas Icon" height = "120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt = "Python Icon" height = "120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt = "Git Icon" height = "120em"/>	
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Icon" height="120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker Icon" height="120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium Icon" height="120em"/>
+	</h3>
 </div>
    	
 <div align = "right">
 	<h2>My Front-End Knowledges</h2>
 	<h3>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Icon" height="120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 Icon" height="120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" alt="ESLint Icon" height="120em" />
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt = "React Icon" height="120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS Icon" height="120em" />
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt = "JavaScript Icon" height = "120em"/>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt = "Typescript Icon" height = "120em"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt = "Bootstrap Icon" height = "120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt = "Bootstrap Icon" height = "120em"/>	         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS Icon" height = "120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM Icon" height="120em"/>
 	</h3>
 </div>
 
@@ -41,9 +49,9 @@
 <div align = "right">
 	<h2>My Server Knowledges</h2>
 	<h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt = "AWS Icon" height="120em"/>
-	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt = "Heroku Icon" height = "120em"/>
-	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-plain.svg" alt = "Vercel Icon" height = "120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt = "AWS Icon" height="120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt = "Heroku Icon" height = "120em"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-plain.svg" alt = "Vercel Icon" height = "120em"/>
 	</h3>
 </div>
 	
