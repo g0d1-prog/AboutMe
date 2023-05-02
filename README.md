@@ -59,11 +59,11 @@
 
 <div align="center">
   <a href="https://github.com/pedrohrbarros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohrbarros&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohrbarros&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 	
 <h1>⌨️ Most Used Languages</h1>
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrbarros&layout=compact&langs_count=7&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohrbarros&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
