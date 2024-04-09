@@ -43,7 +43,7 @@
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-line-wordmark.svg" height = "120em"/>
   </div>
 </div>
-<div align="left">
+<div align="right">
 	<h2>Extra</h2>
 	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-end; gap: 2em;">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="120em"/>
