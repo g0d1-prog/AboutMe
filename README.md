@@ -11,7 +11,7 @@
 <br/>
 
 <h1 id="knowledges">✨ Knowledges</h1>
-<div align="left">
+<div align="left" gap="2em">
 	<h2>Back-End</h2>
 	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; gap: 2em;">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height= "120em"/>
