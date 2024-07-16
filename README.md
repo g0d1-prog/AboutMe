@@ -1,4 +1,11 @@
-![](https://komarev.com/ghpvc/?username=pedrohrbarros&color=006bed)
+
+### 📍 Profile Visitor Count
+
+<p>
+  <img
+    src="https://profile-counter.glitch.me/pedrohrbarros/count.svg"
+  />
+</p>
 
 ## About me
 
@@ -56,6 +63,9 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohrbarros&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <br/><br/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohrbarros&layout=compact&langs_count=7&theme=highcontrast"/>
+    <br/><br/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohrbarros&theme=dark&hide_border=false" />
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=pedrohrbarros&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 ## Find me
