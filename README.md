@@ -1,89 +1,66 @@
-<div id="top" align="center">
-  <h1>Pedro Barros' Github</h1>
-</div>
-<div align="center">
-	<a href="#knowledges">Knowledges</a> &#xa0; | &#xa0;
-	<a href="#status">Status</a> &#xa0; | &#xa0;
-	<a href="#most_used_languages">Most Used Languages</a>
-</div>
+![](https://komarev.com/ghpvc/?username=pedrohrbarros&color=006bed)
+
+## About me
+
+- 🤔 Focusing in build more performatic solutions with low-level programming languages
+- 🎓 Studying System Analysis and Development in FMU.
+- 💼 Working as Mid Fullstack Software Developer at Awto.
+- 🌱 Learning more about Rust and UX/UI concepts.
+
+## My Skills
+
+**Back-end**
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=00599C)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=007396)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=1572B6)
+![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=Next.js)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=SQLAlchemy)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
+![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=Github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=Bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)
 
 <br/>
 
-<h1 id="knowledges">✨ Knowledges</h1>
-<div align="left">
-	<h2>Back-End</h2>
-	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; gap: 2em;">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height= "120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="120em"/>
-  </div>
-</div>
-<div align="right">
-	<h2>Front-End</h2>
-	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-end; gap: 2em;">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="120em"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="120em" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="120em"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height = "120em"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height = "120em"/>
-	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height = "120em"/>
-  </div>
-</div>
-<div align="left">
-	<h2>Mobile Development</h2>
-	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; gap: 2em;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="120em"/>
-  </div>
-</div>
-<div align="right">
-	<h2>Database</h2>
-	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-end; gap: 2em;">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="120em"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="120em"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height = "120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="120em"/>
-	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-line-wordmark.svg" height = "120em"/>
-  </div>
-</div>
-<div align="left">
-	<h2>Version Control</h2>
-	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-end; gap: 2em;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="120em"/>
-  </div>
-</div>
-<div align="right">
-	<h2>Containerization</h2>
-	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-end; gap: 2em;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="120em"/>
-  </div>
-</div>
-<div align="left">
-	<h2>Deployment</h2>
-	<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-end; gap: 2em;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="120em"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="120em"/>      
-  </div>
-</div>
+<a href="https://github.com/pedrohrbarros">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohrbarros&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <br/><br/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohrbarros&layout=compact&langs_count=7&theme=highcontrast"/>
+</a>
 
-<br/>
-<h1 id="status">💻 Status</h1>
+## Find me
 
-<div align="center">
-  <a href="https://github.com/pedrohrbarros">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohrbarros&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
-	
-<h1 id="most_used_languages">⌨️ Most Used Languages</h1>
-
-<div align="center">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohrbarros&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+[![Linkedin](https://img.shields.io/badge/-Pedro%20Henrique%20Rodrigues%20de%20Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-rodrigues-de-barros-39077b159/?locale=en_US)](https://www.linkedin.com/in/pedro-henrique-rodrigues-de-barros-39077b159/?locale=en_US)
+[![E-mail Badge](https://img.shields.io/badge/-pedrobarros232@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrobarros232@hotmail.com)](mailto:pedrobarros232@hotmail.com)
+[![Site Portfolio](https://img.shields.io/badge/-Portfolio-FFFFFF?style=flat-square&logo=meteor&logoColor=black&link=mailto:pedrobarros232@hotmail.com)](https://site-portfolio-pedro-barros.vercel.app/)
+[![GitHub](https://img.shields.io/github/followers/pedrohrbarros?label=follow&style=social)](https://github.com/pedrohrbarros/)
