@@ -25,7 +25,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=1572B6)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
+![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go)
 
 **Front-end**
 
