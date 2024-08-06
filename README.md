@@ -12,7 +12,7 @@
 - 🤔 Focusing in build more performatic solutions with low-level programming languages
 - 🎓 Studying System Analysis and Development in FMU.
 - 💼 Working as Mid Fullstack Software Developer at Awto.
-- 🌱 Learning more about Rust and UX/UI concepts.
+- 🌱 Learning more about Golang and UX/UI concepts.
 
 ## My Skills
 
