@@ -33,7 +33,6 @@
 ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=Next.js)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
@@ -43,9 +42,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=SQLAlchemy)
 
 **DevOps**
 
