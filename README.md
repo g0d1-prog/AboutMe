@@ -11,7 +11,7 @@
 
 - 🤔 Focusing in build more performatic solutions with low-level programming languages
 - 🎓 Studying System Analysis and Development in FMU.
-- 💼 Working as Mid Fullstack Software Developer at Awto.
+- 💼 Working as Fullstack Developer at Awto.
 - 🌱 Learning more about Golang and UX/UI concepts.
 
 ## My Skills
@@ -26,6 +26,7 @@
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go)
+![Gin](https://img.shields.io/badge/-Gin-333333?style=flat&logo=Gin)
 
 **Front-end**
 
@@ -34,6 +35,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
@@ -53,6 +55,13 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)
+
+**System Architecture**
+
+![SOLID](https://img.shields.io/badge/-Solid-333333?style=flat&logo=Solid)
+![SCRUM](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=Scrimba)
+![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=MicroStrategy)
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=flat&logo=PlusCodes)
 
 <br/>
 
